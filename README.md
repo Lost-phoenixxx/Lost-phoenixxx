@@ -3,9 +3,8 @@
 
 I am a results-driven **IT Systems & Network Engineer** based in Goa, India. I specialize in bridging the gap between robust infrastructure and modern software development, with a focus on **Cloud Administration (AWS/Azure)** and **Scalable Systems**.
 
-- 🔭 **Current Role:** Systems Administrator at ForceEra x Hemmersbach.
-- ⚡ **Recent Dev Work:** Building management dashboards and asset tracking tools using **React (JSX)**.
-- 🏗️ **Infrastructure Goal:** Mastering Container Orchestration with Docker & Kubernetes.
+- 🔭 **Current Role:** Systems & Network Engineer.
+- 🏗️ **Infrastructure Goal:** Buiding IT infrastructures and Orchastering Container Orchestration with Docker & Kubernetes.
 - 🎓 **Education:** B.E. in Information Technology (PCCE Goa).
 
 ---
